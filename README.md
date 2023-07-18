@@ -12,12 +12,12 @@
 
 
   ## Skills 🚀
-- **Backend Development:** Java, JS, Node.js, C++, Python
-- **Frontend Development:** React, Next.js, HTML, CSS
-- **Databases:** MySQL, MongoDB
-- **Problems Solving:** Algorithm design, Data structures
-- **Code design:** OOP, SOLID, Design Patterns
-- **Cloud Architecture**: AWS
+  - **Backend Development:** Java, JS, Node.js, C++, Python
+  - **Frontend Development:** React, Next.js, HTML, CSS
+  - **Databases:** MySQL, MongoDB
+  - **Problems Solving:** Algorithm design, Data structures
+  - **Code design:** OOP, SOLID, Design Patterns
+  - **Cloud Architecture**: AWS
 
 
    ## Projects 🪐
