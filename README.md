@@ -21,7 +21,7 @@
 
 
 
--   ## Projects 🪐
+  ## Projects 🪐
   - [**TUP**](https://github.com/GalMiles/TUP)
   - [**CodeFun**](https://github.com/GalMiles/CodeFun) 
 
