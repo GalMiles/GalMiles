@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hello World, I'm Gal 👋</h1>
+<h1 align="center">Junior Software Developer with B.Sc in Computer Science</h2>
+<h5 align="center">Highly motivated and always looking forward to learn and investigate new technologies to keep being modern and up to the industry standards.</h5>
 
 <!--
 **GalMiles/GalMiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
