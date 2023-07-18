@@ -9,10 +9,6 @@
   technologies. Enjoy working on full life cycle projects.
   Team-player with effective communication skills.
 
-  
-  ## Projects 🪐
-  - [**TUP**](https://github.com/GalMiles/TUP)
-  - [**CodeFun**](https://github.com/GalMiles/CodeFun) 
 
   ## Skills 🚀
 - **Backend Development:** Java, JS, Node.js, C++, Python
@@ -21,6 +17,10 @@
 - **Problems Solving:** Algorithm design, Data structures
 - **Code design:** OOP, SOLID, Design Patterns
 - **Cloud Architecture**: AWS
+
+-   ## Projects 🪐
+  - [**TUP**](https://github.com/GalMiles/TUP)
+  - [**CodeFun**](https://github.com/GalMiles/CodeFun) 
 
 
 
