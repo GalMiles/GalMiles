@@ -10,6 +10,7 @@
   Team-player with effective communication skills.
 
 
+
   ## Skills 🚀
 - **Backend Development:** Java, JS, Node.js, C++, Python
 - **Frontend Development:** React, Next.js, HTML, CSS
@@ -17,6 +18,8 @@
 - **Problems Solving:** Algorithm design, Data structures
 - **Code design:** OOP, SOLID, Design Patterns
 - **Cloud Architecture**: AWS
+
+
 
 -   ## Projects 🪐
   - [**TUP**](https://github.com/GalMiles/TUP)
