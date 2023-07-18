@@ -12,7 +12,7 @@
 - Code design: OOP, SOLID, Design Patterns
 - Cloud Architecture
 
-## Sift Skills 🌱 
+## Soft Skills 🌱 
 
 Feel free to explore my repositories to see some of my projects. Don't hesitate to reach out if you have any questions, collaboration opportunities, or just want to connect! Let's create something amazing together. 🚀
   
