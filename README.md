@@ -10,7 +10,7 @@
 - **Databases:** MySQL, MongoDB
 - **Problems Solving:** Algorithm design, Data structures
 - **Code design:** OOP, SOLID, Design Patterns
-- Cloud Architecture
+- **Cloud Architecture**: AWS
 
 ## Soft Skills 🌱 
 - **Team Player:** I thrive in collaborative environments, valuing effective communication and teamwork.
