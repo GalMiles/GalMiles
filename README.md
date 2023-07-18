@@ -11,8 +11,8 @@
 
   
   ## Projects 🪐
-  - [**TUP**] (https://github.com/GalMiles/TUP)
-  - [**CodeFun**] (https://github.com/GalMiles/CodeFun) 
+  - [**TUP**](https://github.com/GalMiles/TUP)
+  - [**CodeFun**](https://github.com/GalMiles/CodeFun) 
 
   ## Skills 🚀
 - **Backend Development:** Java, JS, Node.js, C++, Python
