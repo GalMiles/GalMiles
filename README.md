@@ -4,6 +4,16 @@
   Junior Software Developer with B.Sc in Computer Science
 </div>
 
+  ##About Me 🌟
+  Junior Software Developer, highly focused and motivated, self-learner with a passion for learning new 
+  technologies. Enjoy working on full life cycle projects.
+  Team-player with effective communication skills.
+
+  
+  ##Projects 🪐
+  -**TUP** - 
+  -**CodeFun** - 
+
   ## Skills 🚀
 - **Backend Development:** Java, JS, Node.js, C++, Python
 - **Frontend Development:** React, Next.js, HTML, CSS
@@ -12,12 +22,7 @@
 - **Code design:** OOP, SOLID, Design Patterns
 - **Cloud Architecture**: AWS
 
-## Soft Skills 🌟
-- **Team Player:** I thrive in collaborative environments, valuing effective communication and teamwork.
-- **Adaptability:** I'm open to new challenges and embrace learning opportunities to enhance my skills.
-- **Problem Solver:** I enjoy finding creative solutions and taking on complex challenges.
-- **Effective Communicator:** I strive to convey ideas clearly and listen actively to others.
-- **Continuous Learner:** I have a growth mindset and eagerly explore new technologies and industry trends.
+
 
 
   
