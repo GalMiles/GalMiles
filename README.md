@@ -5,5 +5,13 @@
   I'm a team-player who loves learning and exploring new things. 
   🌟 Passionate about coding, I enjoy creating innovative solutions and collaborating with others. 
   Let's connect and make some amazing projects together! 🚀 
+
+  ## 💬 Ask me about
+- Backend web development (Java, JS, Node.js, C++, Python)
+- Frontend web development (React, Next.js)
+- Databases (MySQL, MongoDB)
+- OOP concepts
+- Cloud Architecture
+- Design Patterns
 </div>
 
