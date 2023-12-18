@@ -21,8 +21,8 @@
 
 
    ## Projects 🪐
-  -[**JobTracker**](https://github.com/GalMiles/JobTracker)
-  -[**CodeFun**](https://github.com/GalMiles/CodeFun) 
+  - [**JobTracker**](https://github.com/GalMiles/JobTracker)
+  - [**CodeFun**](https://github.com/GalMiles/CodeFun) 
   - [**TUP**](https://github.com/GalMiles/TUP)
 
 
