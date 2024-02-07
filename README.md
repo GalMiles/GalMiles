@@ -22,6 +22,7 @@
 
    ## Projects 🪐
   - [**JobTracker**](https://github.com/GalMiles/JobTracker)
+  - [**NetGuard**](https://github.com/GalMiles/NetGuard)
   - [**CodeFun**](https://github.com/GalMiles/CodeFun) 
   - [**TUP**](https://github.com/GalMiles/TUP)
 
