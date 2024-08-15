@@ -1,11 +1,11 @@
 
 <div align="center"> 
   <h1>Hello World, I'm Gal</h1>
-  Junior Software Developer with B.Sc in Computer Science
+  Junior Software Engineer with B.Sc in Computer Science
 </div>
 
   ## About Me 🌟
-  Junior Software Developer, highly focused and motivated, self-learner with a passion for learning new 
+  Junior Software Engineer, highly focused and motivated, self-learner with a passion for learning new 
   technologies. Enjoy working on full life cycle projects.
   Team-player with effective communication skills.
 
