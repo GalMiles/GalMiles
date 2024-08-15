@@ -12,7 +12,7 @@
 
 
   ## Skills 🚀
-  - **Backend Development:** Java, JS, Node.js, C++, Python
+  - **Backend Development:** Javascript, Typescript, Jave, Node.js, C++, Python
   - **Frontend Development:** React, Next.js, HTML, CSS
   - **Databases:** MySQL, MongoDB
   - **Problems Solving:** Algorithm design, Data structures
